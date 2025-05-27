@@ -1,0 +1,11 @@
+{
+    "open_code_after_pull": true,
+    "infrastructure_blocks": {
+        "airflow_dev": {
+            "repo_ssh": "git@github.com:cauamarques22/airflow_dev.git"
+        },
+        "glue-dev": {
+            "repo_ssh": "git@github.com:cauamarques22/glue_dev.git"
+        }
+    }
+}
